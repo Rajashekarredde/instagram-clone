@@ -1,6 +1,6 @@
 # Instagram-Clone
 
-<img src="https://media.tenor.com/_OtyZNwfShYAAAAM/instagram-logo.gif">
+<img src="https://www.movilzona.es/app/uploads-movilzona.es/2018/01/GIF-en-Instagram-1.png">
 
 ## Tech Stack
 <p align="left"> 
